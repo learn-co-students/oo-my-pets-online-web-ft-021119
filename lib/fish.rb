@@ -11,5 +11,4 @@ class Fish
     @name
   end
 
-
 end
